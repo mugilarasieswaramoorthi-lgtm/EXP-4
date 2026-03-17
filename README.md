@@ -48,6 +48,10 @@ Rectifier with filter
 WAVEFORM:
 
 
+
+
+[mugil beee 4.pdf](https://github.com/user-attachments/files/26060210/mugil.beee.4.pdf)
+
 RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.

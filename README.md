@@ -37,18 +37,29 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
+<img width="555" height="348" alt="Screenshot 2026-03-09 125217" src="https://github.com/user-attachments/assets/b82b4d1a-f7d0-4207-920b-1329ce90544d" />
 
-Bridge rectifier with filter:
-
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
-
-WAVEFORM:
+half wave rectifier without filter:
+<img width="507" height="321" alt="Screenshot 2026-03-09 125210" src="https://github.com/user-attachments/assets/e09ed09c-5cb8-464d-9205-271cc845ba27" />
 
 
+full wave rectifier with filter:
+<img width="901" height="648" alt="Screenshot 2026-03-09 153244" src="https://github.com/user-attachments/assets/0e85c684-b58f-4b00-86c7-5d362ccc85a4" />
 
+full wave rectifier without filter:
+<img width="931" height="602" alt="Screenshot 2026-03-09 152439" src="https://github.com/user-attachments/assets/b7978034-26e6-47e7-9453-57d66a31f16c" />
+
+half wave with filter waveform:
+![WhatsApp Image 2026-03-19 at 6 14 31 PM](https://github.com/user-attachments/assets/bf9e7f02-2bfb-4101-b902-3e7621cd5085)
+
+half wave without filter waveform:
+![WhatsApp Image 2026-03-19 at 6 13 48 PM](https://github.com/user-attachments/assets/39dacc9c-2966-4fa5-b22b-a7233ed46015)
+
+full wave with filter waveform:
+<img width="851" height="464" alt="Screenshot 2026-03-09 125227" src="https://github.com/user-attachments/assets/0c25849d-9b90-446c-ac7e-38cf15108e8d" />
+
+full wave without filter waveform:
+![WhatsApp Image 2026-03-19 at 6 14 07 PM](https://github.com/user-attachments/assets/753c30a1-f070-4642-a2c4-e43d83a7bbf7)
 
 [mugil beee 4.pdf](https://github.com/user-attachments/files/26060210/mugil.beee.4.pdf)
 
